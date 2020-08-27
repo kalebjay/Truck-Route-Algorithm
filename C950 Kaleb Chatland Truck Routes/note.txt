@@ -1,0 +1,9 @@
+Submission for
+Performance Assessment: Data Structures 
+and Algorithms II 
+
+Kaleb Chatland
+Student ID 000984351
+
+PyCharm 2020.1.2 Community IDE used
+All files zipped with winRar
